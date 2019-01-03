@@ -1,4 +1,3 @@
-import { Component, Input,ViewEncapsulation } from '@angular/core';
 import { FindJsonDiff } from './json-diff.service';
 @Component({
   selector: 'json-diff',
